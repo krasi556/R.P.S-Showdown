@@ -1,6 +1,5 @@
 import random
 import time
-import string
 choice = {'3':'🧱','2':'📄','1':'✂️'}
 random_choice_list = random.choice(list(choice))
 random_choice = int(random_choice_list)
